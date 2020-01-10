@@ -1,0 +1,35 @@
+html {
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+div {
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    float: left;
+}
+#bl1 {
+    background-color: rgb(65,216,196);
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+#bl2 {
+    background-color: darkgreen;
+    margin-top:15px ;
+    text-align: center;
+}
+#bl3 {
+    background-color: yellow;
+    margin-top:45px;
+    text-align: right;
+}
+#bl4{
+    background-color: red;
+    text-align: left;
+}
